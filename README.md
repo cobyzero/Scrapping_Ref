@@ -35,15 +35,6 @@ Below is an example of the JSON output structure:
         "description": "… machine learning. The second part includes Chapters 4–10, which presents some classic and \npopular machine learning … cover the core topics of machine learning in one semester, and …",
         "source": "google-scholar"
       },
-      {
-        "title": "A review of machine learning and deep learning applications",
-        "authors": "PP Shinde, S Shah",
-        "year": "2018 Fourth international conference on …, 2018",
-        "link": "https://ieeexplore.ieee.org/abstract/document/8697857/",
-        "domain": "ieeexplore.ieee.org",
-        "description": "… learning. A review of these past and future application domains, sub-domains, and applications \nof machine learning and deep learning … to study machine learning and deep learning. It …",
-        "source": "google-scholar"
-      }
     ],
     "totalResults": 0,
     "currentPage": 0
@@ -58,16 +49,7 @@ Below is an example of the JSON output structure:
         "domain": "doi.org",
         "description": "Resumen: Se trata de estudiar, en una primera aproximación, el impacto del cambio en el modo de producción como consecuencia de la telemática y el uso del aprendizaje de las máquinas y la inteligencia artificial en muchas de las aplicaciones y procesos repetitivos en los sistemas sociales de producción y distribución de bienes. Se utilizó el método del construccionismo sistémico, que, en definitiva, parte de la base de que los datos no son datos, sino construcciones con supuestos teóricos inevitables, y de que la lengua es el sistema en el que se construyen los lenguajes que son un límite general para obtener y comunicar información en la sociedad. Esto conduce a una teoría de las acciones algo diferente de las de Parsons y Luhmann, que lleva al concepto de praxemas, y a todo un nuevo análisis de la sociedad y su derecho. Resumen estudiar aproximación bienes sistémico definitiva inevitables Luhmann praxemas derecho",
         "source": "scielo"
-      },
-      {
-        "title": "Artificial intelligence and society: a preliminary reflection society",
-        "authors": "Pugliesi, Márcio",
-        "year": "2024",
-        "link": "https://doi.org/10.15448/1984-7289.2024.1.43411",
-        "domain": "doi.org",
-        "description": "Resumen: Se trata de estudiar, en una primera aproximación, el impacto del cambio en el modo de producción como consecuencia de la telemática y el uso del aprendizaje de las máquinas y la inteligencia artificial en muchas de las aplicaciones y procesos repetitivos en los sistemas sociales de producción y distribución de bienes. Se utilizó el método del construccionismo sistémico, que, en definitiva, parte de la base de que los datos no son datos, sino construcciones con supuestos teóricos inevitables, y de que la lengua es el sistema en el que se construyen los lenguajes que son un límite general para obtener y comunicar información en la sociedad. Esto conduce a una teoría de las acciones algo diferente de las de Parsons y Luhmann, que lleva al concepto de praxemas, y a todo un nuevo análisis de la sociedad y su derecho. Resumen estudiar aproximación bienes sistémico definitiva inevitables Luhmann praxemas derecho",
-        "source": "scielo"
-      } 
+      }
     ],
     "totalResults": 1075,
     "currentPage": 1
