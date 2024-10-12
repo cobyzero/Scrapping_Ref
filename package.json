@@ -1,0 +1,25 @@
+{
+  "name": "scrapping_ref",
+  "version": "1.0.0",
+  "description": "Proyecto de scraping con TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc",
+    "dev": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["scraping", "typescript"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "url": "^0.11.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
