@@ -12,7 +12,7 @@ async function testScrapping() {
   };
 
   await fs.writeFile('exported.json', JSON.stringify(resultados, null, 2), 'utf-8');
-  console.log('Los resultados se han guardado en exported.json');
+  console.log('exported.json saved');
 }
 
 testScrapping();
